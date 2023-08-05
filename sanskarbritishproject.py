@@ -118,8 +118,6 @@ aircraft_grouped = df.groupby('Aircraft')['Value For Money'].mean()
 # plt.show()
 
 
-#10) Determine the satisfaction levels with "Inflight Entertainment" and its impact on overall ratings.
 
-#  ****************************(yet to solved)*************************************
 
 
